@@ -2,7 +2,7 @@
 <h1>Hi, I'm Vasanthi Sudireddy <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Business Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
-<h2>👨‍💻 Working as a Software Developer :</h2>
+<h2>👨‍💻 Working as a Data Specialist :</h2>
 
 - <b>Data Engineering summary</b>
   - Over 11+ years of professional IT experience with 9 Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
