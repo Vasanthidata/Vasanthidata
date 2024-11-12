@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Working as a Data Specialist :</h2>
 
-- <b>Data Engineering summary</b>
+- <b>Data Analyst summary</b>
   - Over 11+ years of professional IT experience with 9 Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
   - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
   - Hands on Experience in AWS EC2, S3, Redshift, EMR, RDS, Glue, Dynamo DB.
@@ -15,10 +15,10 @@
 
 <h2>EDUCATION</h2>
 
-- <b>Master’s in computer science, California University of Management and Sciences, Anaheim, California –2015</b>
-- <b>Bachelor of Engineering in Computer Science, Jawaharlal Nehru Technological University, Hyderabad, India – 2008</b>
+- <b>Master’s in Biotechnology, University Of Massachusettes, Lowell, Massachusettes –2015</b>
+- <b>Bachelor of Pharmacy, Sri Ramachandra Medical College, Chennai, India – 2008</b>
 
-<h2>PROJECT-1</h2>
+<h2>PROJECT-1 MS Excel</h2>
 
 - <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
 - <b>Utilized AWS services, including EC2 and S3, to enhance system scalability and availability. </b>
@@ -30,7 +30,7 @@
   
 - [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
 
-<h2>PROJECT-2</h2>
+<h2>PROJECT-2 Power BI</h2>
 
 - <b>Developed models using ELT Data Build Tool (DBT) to transform the data that is already loaded in Snowflake warehouses</b>
 - <b>Responsible for building the datalike in Amazon AWS, ingesting structured shipment and master data from Azure Service Bus using the AWS API Gateway, Lambda, and Kinesis Firehose into s3 buckets.</b>
