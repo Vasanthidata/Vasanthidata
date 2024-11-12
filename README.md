@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Vasanthi Sudireddy <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Business Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Vasanthi Sudireddy <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Business Analyst</a>
 
 
 <h2>👨‍💻 Working as a Data Specialist :</h2>
@@ -28,7 +28,7 @@
 - <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
   
   
-- [My Data MS EXCEL Project]([https://github.com/sukumar8455/Project_1/tree/main](https://github.com/Vasanthidata/Data-Analyst_Excel-Project_VS))
+- [[My Data MS EXCEL Project][(https://github.com/Vasanthidata/Data-Analyst_Excel-Project_VS)]
 
 <h2>PROJECT-2 Power BI</h2>
 
