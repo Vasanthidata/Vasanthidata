@@ -5,8 +5,8 @@
 <h2>👨‍💻 Working as a Data Specialist :</h2>
 
 - <b>Data Analyst summary</b>
-  - Over 13 years of professional experience, including 3 years in IT focused on data analysis and technical support.
-  - Hands on Experience in MS EXCEL, SQL, POWER BI, TABLEAU, PYTHON.
+  - <b>Over 13 years of professional experience, including 3 years in IT focused on data analysis and technical support.<b>
+  - <b>Hands on Experience in MS EXCEL, SQL, POWER BI, TABLEAU, PYTHON.<b>
 
 <h2>EDUCATION</h2>
 
