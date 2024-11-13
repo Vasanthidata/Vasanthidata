@@ -10,7 +10,7 @@
 
 <h2>EDUCATION</h2>
 
-- <b>Master’s in Biotechnology, University Of Massachusettes, Lowell, Massachusettes –2015</b>
+- <b>Master’s in Biotechnology, University Of Massachusettes, Lowell, Massachusettes </b>
 
 <h2>PROJECT-1 MS Excel</h2>
 
