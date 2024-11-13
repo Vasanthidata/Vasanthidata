@@ -6,12 +6,7 @@
 
 - <b>Data Analyst summary</b>
   - Over 13 years of professional experience, including 3 years in IT focused on data analysis and technical support.
-  - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
   - Hands on Experience in MS EXCEL, SQL, POWER BI, TABLEAU, PYTHON.
-- <b>Involved in Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, and Databases.</b>
-- <b>Optimizing existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.</b>
-- <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
-- <b>Manage all CM tools (JIRA, Confluence, Maven, Jenkins, Git, GitHub, Visual Studio) and their usage / process ensuring traceability, repeatability, quality, and support.</b>
 
 <h2>EDUCATION</h2>
 
