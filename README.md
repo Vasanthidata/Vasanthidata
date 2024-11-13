@@ -34,6 +34,18 @@
 
 - [POWER BI Project][((https://github.com/Vasanthidata/Data-Analyst_Power-BI-Sales-Project_VS)]
 
+<h2>PROJECT-3 SQL</h2>
+
+- <b>Total Sales by Genre:Completed a report displaying total sales segmented by genre, providing a clear view of performance across different categories.</b>
+- <b>Sales from 2013 Onwards: Generated a report showing total sales starting from 2013, inclusive of 2013 sales, allowing analysis of recent trends.</b>
+- <b>Regional Sales Breakdown: Created a report with total sales split by region (North America, Europe, Japan, and Other), giving insight into geographical performance.</b>
+- <b>Average Sales by Genre: Developed a report to show the average sales per genre, enabling quick comparisons across categories.</b>
+- <b>Filters Implemented:Genre Filter: Allows filtering of sales data by genre for targeted analysis.
+                         Platform Filter: Enables filtering by platform to focus on specific sales channels.
+     These reports and filters allow stakeholders to conduct detailed and flexible analysis of sales data across genres, regions, and platforms.</b>
+
+- [SQL Project][([https://github.com/Vasanthidata/Data-Analyst_Power-BI-Sales-Project_VS](https://github.com/Vasanthidata/Data-Analyst_SQL-Project_VS)]
+
 
 
 <h2> 🤳 Connect with me:</h2>
