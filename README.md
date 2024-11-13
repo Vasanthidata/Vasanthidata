@@ -20,7 +20,7 @@
 - <b>Data Visualization: Created Pivot Tables and Slicers to identify and highlight top and bottom salary trends.</b>
 - <b>Visual Emphasis: Applied Conditional Formatting to highlight critical insights and patterns within the data.</b>
 
-- [[My Data MS EXCEL Project][(https://github.com/Vasanthidata/Data-Analyst_Excel-Project_VS)]
+- [My Data MS EXCEL Project][(https://github.com/Vasanthidata/Data-Analyst_Excel-Project_VS)]
 
 <h2>PROJECT-2 Power BI</h2>
 
