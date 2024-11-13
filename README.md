@@ -32,7 +32,7 @@
                          Platform Filter: Enables filtering by platform to focus on specific sales channels.
      These reports and filters allow stakeholders to conduct detailed and flexible analysis of sales data across genres, regions, and platforms.</b>
 
-- [POWER BI Project]((https://github.com/Vasanthidata/Data-Analyst_Power-BI-Sales-Project_VS))
+- [POWER BI Project][((https://github.com/Vasanthidata/Data-Analyst_Power-BI-Sales-Project_VS)]
 
 
 
