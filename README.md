@@ -5,9 +5,9 @@
 <h2>👨‍💻 Working as a Data Specialist :</h2>
 
 - <b>Data Analyst summary</b>
-  - Over 11+ years of professional IT experience with 9 Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
+  - Over 13 years of professional experience, including 3 years in IT focused on data analysis and technical support.
   - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
-  - Hands on Experience in SQL, MS EXCEL, POWER BI, TABLEAU, PYTHON.
+  - Hands on Experience in AWS EC2, S3, Redshift, EMR, RDS, Glue, Dynamo DB.
 - <b>Involved in Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, and Databases.</b>
 - <b>Optimizing existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.</b>
 - <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
@@ -16,32 +16,29 @@
 <h2>EDUCATION</h2>
 
 - <b>Master’s in Biotechnology, University Of Massachusettes, Lowell, Massachusettes –2015</b>
-- <b>Bachelor of Pharmacy, Sri Ramachandra Medical College, Chennai, India – 2008</b>
 
 <h2>PROJECT-1 MS Excel</h2>
 
-- <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
-- <b>Utilized AWS services, including EC2 and S3, to enhance system scalability and availability. </b>
+- <b>Statistical Analysis: Utilized functions such as AVERAGE, MEDIAN, MIN, MAX, and SUM to summarize and interpret salary data.</b>
+- <b>Data Retrieval: Employed VLOOKUP, XLOOKUP, and HLOOKUP functions to efficiently extract key salary information. </b>
+- <b>Bonus Calculation: Computed annual bonuses segmented by department and country to ensure accurate compensation distribution.</b>
+- <b>Data Visualization: Created Pivot Tables and Slicers to identify and highlight top and bottom salary trends.</b>
+- <b>Visual Emphasis: Applied Conditional Formatting to highlight critical insights and patterns within the data.</b>
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
-
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
-  
-  
 - [[My Data MS EXCEL Project][(https://github.com/Vasanthidata/Data-Analyst_Excel-Project_VS)]
 
 <h2>PROJECT-2 Power BI</h2>
 
-- <b>Developed models using ELT Data Build Tool (DBT) to transform the data that is already loaded in Snowflake warehouses</b>
-- <b>Responsible for building the datalike in Amazon AWS, ingesting structured shipment and master data from Azure Service Bus using the AWS API Gateway, Lambda, and Kinesis Firehose into s3 buckets.</b>
+- <b>Total Sales by Genre:Completed a report displaying total sales segmented by genre, providing a clear view of performance across different categories.</b>
+- <b>Sales from 2013 Onwards: Generated a report showing total sales starting from 2013, inclusive of 2013 sales, allowing analysis of recent trends.</b>
+- <b>Regional Sales Breakdown: Created a report with total sales split by region (North America, Europe, Japan, and Other), giving insight into geographical performance.</b>
+- <b>Average Sales by Genre: Developed a report to show the average sales per genre, enabling quick comparisons across categories.</b>
+- <b>Filters Implemented:Genre Filter: Allows filtering of sales data by genre for targeted analysis.
+                         Platform Filter: Enables filtering by platform to focus on specific sales channels.
+     These reports and filters allow stakeholders to conduct detailed and flexible analysis of sales data across genres, regions, and platforms.</b>
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
+- [POWER BI Project](https://github.com/sukumar8455/project_2)
 
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
-    
-- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
-
-- <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
 
 
 <h2> 🤳 Connect with me:</h2>
