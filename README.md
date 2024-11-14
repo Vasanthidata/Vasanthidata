@@ -52,7 +52,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/vsudireddy/" target="_blank">Visit my LinkedIn Profile</a>
 
 <a href="https://www.linkedin.com/in/vsudireddy/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 100px; height: auto;">
