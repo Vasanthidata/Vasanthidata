@@ -59,7 +59,7 @@
 
 
 
-<a href="https://sites.google.com/view/vas-eddy-portfolio/home" target="_blank" rel="noopener noreferrer"
+<a href="https://sites.google.com/view/vasanthi-sudireddy-portfolio/home" target="_blank" rel="noopener noreferrer"
    style="display: inline-block; padding: 8px 10px; background-color: #4285F4; color: white; text-decoration: none; border-radius: 5px; cursor: pointer; text-align: center; border: none;">
     <img src="https://github.com/user-attachments/assets/6813f61c-f18d-4d51-822c-ae7f0183586d" alt="Portfolio" style="width: 100px; height: auto;">
 </a>
